@@ -51,7 +51,7 @@
                 <br>
                 multiple projects,
                 <br>
-                simple as that.
+                simple as that!
                 <particle-5 id="particle-5"></particle-5>
               </div>
             </div>
